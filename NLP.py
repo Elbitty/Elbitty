@@ -1,8 +1,8 @@
 #!/usr/bin/env python
 # -*- coding:utf-8 -*-
 
-from konlpy.tag import Twitter
-twitter = Twitter()
+from twkorean import TwitterKoreanProcessor
+twitter = TwitterKoreanProcessor()
 
 #------------------------------------------------------------------------
 def calculate_no_norm(content):
