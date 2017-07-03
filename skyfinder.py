@@ -5,7 +5,7 @@ from skyscanner.skyscanner import Flights
 
 
 def calculate():
-    flights_service = Flights('eu852557966948323012893595909615')
+    flights_service = Flights('')
     result = flights_service.get_result(
         country='UK',
         currency='GBP',

@@ -9,7 +9,7 @@ def calculate(keyword):
 
     query = keyword
 
-    api_key = "7005ccff8c490c0b550ba03b0aaa7877"
+    api_key = ""
 
     params = {"apikey" : api_key, "q" : query, "result" : "20", "sort" : "pop", "output" : "json"}
 
