@@ -7,7 +7,7 @@ https://twitter.com/HiElbitty
 
 ----
 
-사용 예
+용례
 ----------
 Elbitty가 인식할 수 있는 어휘와 구문은 다음과 같습니다.
 
