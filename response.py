@@ -30,17 +30,4 @@ def run(api, to_reply, from_reply):#toReply는 사용자, fromReply는 AI 봇을
 
 
 if __name__ == "__main__":
-    import tweepy
-    CK = "Lx1xs0I8NM9mieAQTU49WOI02"
-    CS = "0jO4iyWpc86dUT8ogkLn7W3Jw4o65xp02PBWNqo4SdOgJbITFH"
-    # After the step above, you will be redirected to your app's page.
-    # Create an access token under the the "Your access token" section
-    AT = "862611853725155328-sshiRQ0GD0HPumKdl4ZmkKgX0CyJxNH"
-    AS = "V41d542vmNCMTQ8lh5UQ6eOpnTYxG8nZkrlWdMxnCnBLL"
-
-    # Twitter 오브젝트의 생성자
-    AUTH = tweepy.OAuthHandler(CK, CS)
-    AUTH.set_access_token(AT, AS)
-
-    API = tweepy.API(AUTH)
-    print(run(API, "_circonor", "HiElbitty"))
+    pass
