@@ -66,7 +66,7 @@ Elbitty는 신뢰할 수 있는 위치에서만 정보를 가져오며, 각 출�
 - 정보
   - NAVER 지식백과(http://terms.naver.com)
 - 쇼핑
-  - DAUM 쇼핑하우(http://shopping.daum.net) via DAUM Developers(http://developers.daum.net
+  - DAUM 쇼핑하우(http://shopping.daum.net) via DAUM Developers(http://developers.daum.net)
   
   
 면책 사항
