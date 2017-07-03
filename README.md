@@ -2,8 +2,12 @@
 https://github.com/Elbitty/Elbitty
 https://twitter.com/HiElbitty
 
- > 대화형 트위터 봇인 Elbitty는 유저의 멘션을 읽고, 그에 대한 다양한 정보를 실시간으로 알려 드립니다. 
+대화형 트위터 봇인 Elbitty는 유저의 멘션을 읽고, 그에 대한 다양한 정보를 실시간으로 알려 드립니다. 
+
 ----
+
+사용 예
+----------
 Elbitty가 인식할 수 있는 어휘와 구문은 다음과 같습니다. 
 
 - 날씨
@@ -40,7 +44,11 @@ Elbitty가 인식할 수 있는 어휘와 구문은 다음과 같습니다.
   - 추가 예정.
 ----
 
-Elbitty가 가져오는 정보의 출처는 다음과 같습니다. 
+정보 출처
+----------
+
+Elbitty는 신뢰할 수 있는 위치에서만 정보를 가져오며, 각 기능별 정보의 출처는 다음과 같습니다. 
+
 - 날씨
   - OpenWeatherMap(https://openweathermap.org)
 - 미세먼지
