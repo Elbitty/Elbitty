@@ -55,6 +55,8 @@ Elbitty가 인식할 수 있는 어휘와 구문은 다음과 같습니다.
 
 Elbitty는 신뢰할 수 있는 위치에서만 정보를 가져오며, 각 출처는 다음과 같습니다.
 
+- 위치
+  - Google Maps(https://www.google.com/maps)
 - 날씨
   - OpenWeatherMap(https://openweathermap.org)
 - 미세먼지
@@ -64,4 +66,15 @@ Elbitty는 신뢰할 수 있는 위치에서만 정보를 가져오며, 각 출�
 - 정보
   - NAVER 지식백과(http://terms.naver.com)
 - 쇼핑
-  - DAUM 쇼핑하우(http://shopping.daum.net) via DAUM Developers(http://developers.daum.net)
+  - DAUM 쇼핑하우(http://shopping.daum.net) via DAUM Developers(http://developers.daum.net
+  
+  
+  면책 사항
+----------
+
+아래의 면책 사항을 주의 깊게 확인하여 주십시오. 
+
+ - Elbitty는 사용자의 요청에 따라 정보를 가져와 보여주는 단순 중개 역할만을 합니다. 
+ - Elbitty가 알려드리는 정보를 맹신하지 마십시오. Elbitty는 무료, 무상의 서비스입니다. Elbitty로 인하여 발생되는 피해나 손실, 손해의 책임은 전적으로 사용자에게 있습니다. 
+ - Elbitty에게 사용자의 상세한 위치를 전송하지 마십시오. Twitter는 열려 있는 소셜 네트워크 서비스이므로, 알려진 위치로 인해 현실에서 피해를 입을 수 있습니다. 
+
