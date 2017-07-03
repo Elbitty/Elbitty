@@ -55,20 +55,16 @@ Elbitty가 인식할 수 있는 어휘와 구문은 다음과 같습니다.
 
 Elbitty는 신뢰할 수 있는 위치에서만 정보를 가져오며, 각 출처는 다음과 같습니다.
 
-- 위치
-  - Google Maps(https://www.google.com/maps)
-- 날씨
-  - OpenWeatherMap(https://openweathermap.org)
-- 미세먼지
-  - SK planet DEVELOPERS(https://developers.skplanetx.com)
-- 환율
-  - Yahoo Finance(https://finance.yahoo.com) with YQL(https://developer.yahoo.com/yql/)
-- 정보
-  - NAVER 지식백과(http://terms.naver.com)
-- 쇼핑
-  - DAUM 쇼핑하우(http://shopping.daum.net) via DAUM Developers(http://developers.daum.net)
-  
-  
+| 정보 | 출처 | 웹사이트 |비고|
+| :-- | :--- | :------- | :- |
+|위치|Google Maps|[maps.google.com](https://www.google.com/maps)||
+|날씨|OpenWeatherMap|[openweathermap.org](https://openweathermap.org/)||
+|미세먼지|SK planet DEVELOPERS|[developers.skplanetx.com](https://developers.skplanetx.com/)||
+|환율|Yahoo Finance|[finance.yahoo.com](https://finance.yahoo.com/)|with [YQL](https://developer.yahoo.com/yql/)|
+|정보|NAVER 지식백과|[terms.naver.com](http://terms.naver.com/)||
+|쇼핑|DAUM 쇼핑하우|[shopping.daum.net](http://shopping.daum.net/)|via [DAUM Developers](http://developers.daum.net)|
+
+
 면책 사항
 ----------
 
