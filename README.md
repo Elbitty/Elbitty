@@ -53,7 +53,7 @@ Elbitty가 인식할 수 있는 어휘와 구문은 다음과 같습니다.
 정보 출처
 ----------
 
-Elbitty는 신뢰할 수 있는 출처에서만 정보를 가져오며, 각 출처는 다음과 같습니다.
+Elbitty는 신뢰할 수 있는 위치에서만 정보를 가져오며, 각 출처는 다음과 같습니다.
 
 - 날씨
   - OpenWeatherMap(https://openweathermap.org)
